@@ -1,10 +1,11 @@
 namespace AnimalShelter.Models
 {
-  public class Dog
+  public class Animal
   {
-    public int DogId { get; set; }
+    public int AnimalId { get; set; }
     public string Name { get; set; }
     public string Species { get; set; }
+    public string Family { get; set; }
     public int Age { get; set; }
     public string Markings { get; set; }
   }
