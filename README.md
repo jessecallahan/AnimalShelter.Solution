@@ -14,7 +14,7 @@ This project also utilizes full swagger documentation which you can see at the b
 
 ## Specs
 
-![image info](./SweetAndSavory/wwwroot/images/crud.png)
+![image info](./AnimalShelter/wwwroot/images/crud.png)
 
 Visit the swagger docs website [here](https://app.swaggerhub.com/apis-docs/Epicodus63/animalshelter/0.1)
 
