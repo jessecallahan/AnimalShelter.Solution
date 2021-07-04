@@ -1,4 +1,5 @@
 # Jesse's Animal Shelter API
+https://github.com/jessecallahan/AnimalShelter.Solution
 
 Created 07.03.21</br>
 By _**Jesse Callahan**_</br>
@@ -13,7 +14,7 @@ This project also utilizes full swagger documentation which you can see at the b
 
 ## Specs
 
-
+![image info](./SweetAndSavory/wwwroot/images/crud.png)
 
 Visit the swagger docs website [here](https://app.swaggerhub.com/apis-docs/Epicodus63/animalshelter/0.1)
 
